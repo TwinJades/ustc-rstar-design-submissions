@@ -1,0 +1,18 @@
+{
+  "name": "hanhai-xingyun-emblem",
+  "version": "1.0.0",
+  "private": true,
+  "description": "瀚海星云圆形徽标制作",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "verify": "node scripts/verify.cjs"
+  },
+  "dependencies": {
+    "ag-psd": "31.0.3",
+    "@visioncortex/vtracer": "1.0.0-alpha.4",
+    "canvas": "3.2.0",
+    "opentype.js": "1.3.4",
+    "svgpath": "2.6.0",
+    "fast-xml-parser": "5.3.0"
+  }
+}
